@@ -1,0 +1,5 @@
+numpy
+opencv-python
+tensorflow==2.7.0
+sklearn
+tqdm
